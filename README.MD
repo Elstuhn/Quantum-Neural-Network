@@ -1,8 +1,8 @@
 # Quantum-Neural-Network
-- A project that is hosted using **FastAPI** and **Jinja2**, containerized using **Docker** and made as an infrastructure as code using **Terraform** and allows for continuous monitoring using **Prometheus**. 
+- A project that is powered using **FastAPI** and **Jinja2**, hosted using **AWS ECR and ECS**, containerized using **Docker** and made as an infrastructure as code using **Terraform** and allows for **continuous monitoring** using **Prometheus**. 
 - The project uses a **Neural Network** whose backend is powered using **quantum computations** and properties to speed up computation. 
 - It takes in a csv file with three columns (two features and 1 target) and shows the plot of points along with wrong predictions and time/accuracy comparisons to a normal neural network made using Pytorch
-
+- PS: Terraform sets up all the AWS networking modules like load balancers, elastic IPs, etc.
 
 # Usage:
 
