@@ -13,3 +13,4 @@
 
 ## Docker only
 1. Just run `docker-compose up --build` and it should be running on `localhost:8000`
+2. Prometheus is running on `localhost:9090`
