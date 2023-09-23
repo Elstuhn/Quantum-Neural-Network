@@ -1,0 +1,16 @@
+numpy == 1.25.2
+Jinja2==3.1.2
+fastapi==0.103.0
+uvicorn==0.23.2
+prometheus-client==0.17.1
+prometheus-fastapi-instrumentator==6.1.0
+pinecone-client==2.2.2
+python-dotenv==1.0.0
+python-multipart==0.0.6
+pandas==2.1.0
+qiskit==0.44.1
+qiskit-machine-learning==0.6.1
+torch==1.13.1
+matplotlib==3.7.1
+openpyxl==3.1.2
+pylatexenc==2.10
