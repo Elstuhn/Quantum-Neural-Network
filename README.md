@@ -26,6 +26,6 @@ Homepage<br>
 Result Page
 <img width="1265" alt="image" src="https://github.com/Elstuhn/Quantum-Neural-Network/assets/66341506/103cefb8-c461-4806-afa8-e28f54a66494">
 
-Ran using OR gates random input and output
+Ran using OR gates random input and output (in which both qnn and nn overfit due to target imbalance as expected)
 <br>
 **PS: Reason why the Neural Network in this case runs faster than the QNN might be because of the difference in complexity of architecture. The Neural Network in this case is using a simple Wide Neural Network**
