@@ -9,8 +9,9 @@
 ## Full AWS and Terraform
 1. Download prometheus and copy all files/folders except for prometheus.yml into the prometheus folder in this repository
 2. Go to config.tf and change region, name for modules and any other necessary configurations
-3. Go to AWS ECR in your repository and follow 'view push commands' instructions (if you get an error at first step: view https://stackoverflow.com/questions/60807697/docker-login-error-storing-credentials-the-stub-received-bad-data)
-4. Go to AWS load balancer and get DNS name and enter it into your searchbar to see your application
+3. Download aws-cli and sign in with credentials (access key id and secret key etc)
+4. Go to AWS ECR in your repository and follow 'view push commands' instructions (if you get an error at first step: view https://stackoverflow.com/questions/60807697/docker-login-error-storing-credentials-the-stub-received-bad-data)
+5. Go to AWS load balancer and get DNS name and enter it into your searchbar to see your application
 
 ## Docker only
 1. Download prometheus and copy all files/folders except for prometheus.yml into the prometheus folder in this repository
