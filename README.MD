@@ -23,9 +23,8 @@
 Homepage<br>
 
 
-Result Page<br>
+Result Page
 
-<br>
 Ran using OR gates random input and output
 <br>
 **PS: Reason why the Neural Network in this case runs faster than the QNN might be because of the difference in complexity of architecture. The Neural Network in this case is using a simple Wide Neural Network**
