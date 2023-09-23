@@ -21,9 +21,10 @@
 
 # Application (Showcase)
 Homepage<br>
-
+<img width="1280" alt="image" src="https://github.com/Elstuhn/Quantum-Neural-Network/assets/66341506/bed00c7c-f51a-47be-9fab-9cd174fe7d5d">
 
 Result Page
+<img width="1265" alt="image" src="https://github.com/Elstuhn/Quantum-Neural-Network/assets/66341506/103cefb8-c461-4806-afa8-e28f54a66494">
 
 Ran using OR gates random input and output
 <br>
