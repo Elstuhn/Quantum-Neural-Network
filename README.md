@@ -21,10 +21,10 @@
 
 # Application (Showcase)
 Homepage<br>
-<img width="1280" alt="image" src="https://github.com/Elstuhn/Quantum-Neural-Network/assets/66341506/bed00c7c-f51a-47be-9fab-9cd174fe7d5d">
+<img width="1280" alt="image" src="https://github.com/Elstuhn/Quantum-Neural-Network/assets/66341506/4be73c4c-2912-4032-90af-473b57a5f1c2">
 
 Result Page
-<img width="1265" alt="image" src="https://github.com/Elstuhn/Quantum-Neural-Network/assets/66341506/103cefb8-c461-4806-afa8-e28f54a66494">
+<img width="1260" alt="image" src="https://github.com/Elstuhn/Quantum-Neural-Network/assets/66341506/71358dae-a486-492f-9746-fa9d71a7951e">
 
 Ran using OR gates random input and output (in which both qnn and nn overfit due to target imbalance as expected)
 <br>
